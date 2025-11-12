@@ -1,5 +1,5 @@
 # Usando a imagem oficial da Evolution API
-FROM atendai/evolution-api:v2.3.6
+FROM atendai/evolution-api:v2.3.2
 
 # Variáveis de ambiente
 ENV AUTHENTICATION_API_KEY=mude-me
